@@ -6,3 +6,4 @@ plugins/wordpress-importer
 plugins/wordpress-popular-posts
 plugins/wp-asset-clean-up
 plugins/wp-subtitle
+themes/atomic-blocks
